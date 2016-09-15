@@ -1,0 +1,21 @@
+[My Computer]
+My Computer = "172.16.3.128"
+
+[myRIO]
+myRIO = "192.168.0.122"
+
+[myRIO 2]
+myRIO 2 = "0.0.0.0"
+
+[myRIO-018136FC]
+myRIO-018136FC = "172.22.11.2"
+
+[sbRIO]
+sbRIO = "0.0.0.0"
+
+[sbRIO Cal Climber]
+sbRIO Cal Climber = "192.168.69.2"
+
+[sbRIO-9632]
+sbRIO-9632 = "192.168.69.2"
+
